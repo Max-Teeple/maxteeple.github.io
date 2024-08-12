@@ -1,10 +1,10 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
+photo: /assets/img/uploads/headShot.png
+name: Max Teeple
+display_name: Max Teeple
 position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+bio: Dude with maybe a good idea - who knows...
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
